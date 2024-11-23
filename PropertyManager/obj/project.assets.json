@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\janer\\Documents\\examenJW\\PropertyManager\\PropertyManager.csproj",
+      "projectUniqueName": "C:\\Users\\janer\\Documents\\examenJW\\ExamenJW\\PropertyManager\\PropertyManager.csproj",
       "projectName": "PropertyManager",
-      "projectPath": "C:\\Users\\janer\\Documents\\examenJW\\PropertyManager\\PropertyManager.csproj",
+      "projectPath": "C:\\Users\\janer\\Documents\\examenJW\\ExamenJW\\PropertyManager\\PropertyManager.csproj",
       "packagesPath": "C:\\Users\\janer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\janer\\Documents\\examenJW\\PropertyManager\\obj\\",
+      "outputPath": "C:\\Users\\janer\\Documents\\examenJW\\ExamenJW\\PropertyManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
