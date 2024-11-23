@@ -18,6 +18,34 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\willi\OneDrive\Documentos\ExamenJW\PropertyManager
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/willi/OneDrive/Documentos/ExamenJW/PropertyManager/Pages/CInquilinos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ0lucXVpbGlub3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/OneDrive/Documentos/ExamenJW/PropertyManager/Pages/CInquilinos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ0lucXVpbGlub3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/OneDrive/Documentos/ExamenJW/PropertyManager/Pages/CInquilinos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ0lucXVpbGlub3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/OneDrive/Documentos/ExamenJW/PropertyManager/Pages/CInquilinos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ0lucXVpbGlub3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/OneDrive/Documentos/ExamenJW/PropertyManager/Pages/CPropiedades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1Byb3BpZWRhZGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/OneDrive/Documentos/ExamenJW/PropertyManager/Pages/CPropiedades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1Byb3BpZWRhZGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/willi/OneDrive/Documentos/ExamenJW/PropertyManager/Pages/CPropiedades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1Byb3BpZWRhZGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/willi/OneDrive/Documentos/ExamenJW/PropertyManager/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
