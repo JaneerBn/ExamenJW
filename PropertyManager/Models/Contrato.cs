@@ -1,4 +1,4 @@
-using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PropertyManagerWeb.Models
 {
@@ -6,7 +6,7 @@ namespace PropertyManagerWeb.Models
     {
             public int Id { get; set; }
             public int IdPropiedad { get; set; }
-             public Propiedades? Propiedad { get; set; } = default!;
+            public Propiedades Propiedad { get; set; }
             public int IdInquilino { get; set; }
             public DateTime FechaInicio { get; set; }
             public DateTime FechaFin { get; set; }
